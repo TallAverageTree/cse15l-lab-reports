@@ -1,4 +1,4 @@
-D# Lab Report Blog
+# Lab Report Blog
 
 ![CD Examples](CDExamples.png)
 
