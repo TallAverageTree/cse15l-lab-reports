@@ -9,9 +9,7 @@ to access the doucment and start edting the document.
 
 ## Step 2: Locating Error
 
-Keys Pressed: `<down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>,
-<down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <right>, <right>, <right>, <right>, <right>, <right>, 
-<right>, <right>, <right>, <right>, <right>, <right>, <x>, <i>, <2>, <esc>, <:>, <w>, <q>, <enter>`
+Keys Pressed: `<down>,<down>,<down>,<down>,<down>,<down>,<down>,<down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <right>, <right>, <right>, <right>, <right>, <right>, <right>, <right>, <right>, <right>, <right>, <right>, <x>, <i>, <2>, <esc>, <:>, <w>, <q>, <enter>`
 
 Meaning: The line which I had to change was on line 43, so I pressed down until I reached line 43, then I moved right 11 times to get to the 1 in `index1 += 1;` line.
 
